@@ -26,8 +26,6 @@ ask me about python ,C,C++,java<br>
 ![](https://github-profile-trophy.vercel.app/?username=BaratamVenkataramana.&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-## 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Venkataramana-Baratam&theme=darkhub&no-frame=true&row=1&column=7)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BaratamVenkataramana.&limit=5&theme=dark&combine_all_yearly_contributions=true)
