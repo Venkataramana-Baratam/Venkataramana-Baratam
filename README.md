@@ -31,6 +31,7 @@ ask me about python ,C,C++,java<br>
 ![](https://github-contributor-stats.vercel.app/api?username=BaratamVenkataramana.&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BaratamVenkataramana.&icon=0&color=0)](https://visitcount.itsvg.in)
+#profile views 
+[![](https://visitcount.itsvg.in/api?id=Venkataramana-Baratam.&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
