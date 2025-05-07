@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm venkataramana baratam
+# Hi there! 👋 I'm Venkataramana Baratam
 - 👀 I’m interested in learning new technology
 - 🌱 I’m currently learning python (ML)
 - 📫 How to reach me @venkataramanabaratam123@gmail.com
