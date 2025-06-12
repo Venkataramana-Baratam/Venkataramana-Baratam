@@ -7,7 +7,7 @@
 
 <ul>
   <li>💬 Ask me about <b>Python</b>, <b>C</b>, <b>C++</b>, and <b>Java</b>.</li>
-  <li>🌱 Currently learning <b>Machine Learning with Python</b> and <b>Data Analytics</b>.</li>
+  <li>🌱 Currently learning <b>Machine Learning with Python</b> and <b>Data Analytics with Python</b>.</li>
   <li>🧠 Exploring <b>Data Structures and Algorithms</b>.</li>
   <li>📫 Reach me at: <a href="mailto:venkataramanabaratam123@gmail.com">venkataramanabaratam123@gmail.com</a>.</li>
   <li>⚡ Fun Fact: I love debugging — both in code and in logic puzzles!</li>
