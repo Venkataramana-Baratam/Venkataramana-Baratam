@@ -80,8 +80,6 @@
 ---
 <h2>📈 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Venkataramana-Baratam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkataramana-Baratam&theme=dark&hide_border=false" />
   <br />
