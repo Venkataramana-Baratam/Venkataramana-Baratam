@@ -78,14 +78,14 @@
 </p>
 
 ---
+
 <h2>📈 GitHub Stats</h2>
 
-  <br />
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkataramana-Baratam&theme=dark&hide_border=false" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkataramana-Baratam&theme=dark&hide_border=false&layout=compact" />
 </div>
-
 ---
 
 <!---
