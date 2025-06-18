@@ -78,26 +78,25 @@
 </p>
 
 ---
-<h2>📈 GitHub Stats</h2>
+<h2> 📊✨ GitHub Stats Overview </h2>
 
 <div align="center">
 
-  <!--🔥 Streak‑stats card -->
+  <!-- 🔥 Streak Stats Card -->
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=Venkataramana-Baratam&theme=tokyonight&hide_border=true&ring=ffab70&fire=ff6b81&currStreakLabel=ffa500"
-    alt="GitHub Streak"
+    alt="Venkataramana-Baratam's GitHub Streak"
     width="49%"
   />
 
-  <!--💾 Top‑languages card -->
+  <!-- 📚 Top Languages Card -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkataramana-Baratam&theme=tokyonight&hide_border=true&layout=compact"
-    alt="Top Languages"
+    alt="Most Used Languages by Venkataramana-Baratam"
     width="49%"
   />
 
 </div>
-
 ---
 
 <!---
