@@ -47,26 +47,36 @@
 </p>
 
 ---
-<h2> 📊✨ GitHub Stats Overview </h2>
+## 📊✨ GitHub Stats Overview
 
 <div align="center">
 
-  <!-- 🔥 Streak Stats Card -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Venkataramana-Baratam&theme=tokyonight&hide_border=true&ring=ffab70&fire=ff6b81&currStreakLabel=ffa500"
-    alt="Venkataramana-Baratam's GitHub Streak"
-    width="49%"
-  />
+<!-- 🔍 Profile Summary Card -->
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Venkataramana-Baratam&theme=radical"
+  height="180em"
+/>
 
-  <!-- 📚 Top Languages Card -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkataramana-Baratam&theme=tokyonight&hide_border=true&layout=compact"
-    alt="Most Used Languages by Venkataramana-Baratam"
-    width="49%"
-  />
+<!-- 📈 Contribution Activity Graph -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Venkataramana-Baratam&theme=redical"
+/>
+
+<!-- 🔥 Streak Stats Card -->
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=Venkataramana-Baratam&theme=tokyonight&hide_border=true&ring=ffab70&fire=ff6b81&currStreakLabel=ffa500"
+  width="49%"
+  alt="Venkataramana-Baratam's GitHub Streak"
+/>
+
+<!-- 📚 Top Languages Card -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkataramana-Baratam&theme=tokyonight&hide_border=true&layout=compact"
+  width="49%"
+  alt="Most Used Languages by Venkataramana-Baratam"
+/>
 
 </div>
-
 <!---
 Venkataramana-Baratam/Venkataramana-Baratam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
