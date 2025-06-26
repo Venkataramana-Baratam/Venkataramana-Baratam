@@ -71,10 +71,10 @@
 />
 
 <!-- 📚 Top Languages Card -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkataramana-Baratam&theme=tokyonight&hide_border=true&layout=compact"
-  width="45%"
-  alt="Most Used Languages by Venkataramana-Baratam"
+<img 
+  width="325" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkataramana-Baratam&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
+  alt="Top Languages" 
 />
 <!---
 Venkataramana-Baratam/Venkataramana-Baratam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
